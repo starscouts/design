@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#DADADA;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_00000090260555425121088010000014422507669902585995_);}
+</style>
+<g id="Layer_3">
+	<rect class="st0" width="1024" height="1024"/>
+</g>
+<g id="Layer_2">
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="147.5244" y1="512" x2="876.4756" y2="512">
+			<stop  offset="0" style="stop-color:#ED696C"/>
+			<stop  offset="1" style="stop-color:#F2979C"/>
+		</linearGradient>
+		<path class="st1" d="M797.8,235.82l-28.44,39.98l-25.8,33.79l-0.21,0.28l-0.2,0.28L614.36,491.57l-0.13,0.18l-0.12,0.18
+			l-25.47,37.59L459.99,710.75l-0.07,0.1l-0.07,0.1l-23.47,33.97L373.25,834l-98.11-92.01l-34.05-33.85l-0.1-0.1l-0.1-0.1
+			l-61.55-59.47l137.13-90.88l0.33-0.22l0.32-0.23l52.11-37.54l273.08-181.16l51.96-34.02l0.04-0.03l0.04-0.03L797.8,235.82
+			 M876.48,159.72L683.3,287.68l-52.01,34.05L357.83,503.14l-52.42,37.77L147.52,645.55l79.46,76.77l34.26,34.05l115.06,107.9
+			l76.47-107.9l23.53-34.05l128.78-181.41l25.59-37.77l128.78-181.41l26-34.05L876.48,159.72L876.48,159.72z"/>
+	</g>
+	
+		<linearGradient id="SVGID_00000113317959786608202480000008981988383658397856_" gradientUnits="userSpaceOnUse" x1="451.2198" y1="341.8539" x2="674.9745" y2="565.6086">
+		<stop  offset="0" style="stop-color:#ED696C"/>
+		<stop  offset="1" style="stop-color:#F2979C"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000113317959786608202480000008981988383658397856_);" d="M261.24,756.38h191.53l-76.47,107.9
+		L261.24,756.38z M226.98,722.32H476.3l128.78-181.41H305.41L147.52,645.55L226.98,722.32z M357.83,503.14h272.84l128.78-181.41
+		H631.29L357.83,503.14z M683.3,287.68h102.16l91.02-127.96L683.3,287.68z"/>
+</g>
+</svg>
